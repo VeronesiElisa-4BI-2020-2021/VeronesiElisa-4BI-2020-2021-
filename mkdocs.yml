@@ -1,0 +1,10 @@
+site_name: Veronesi_Elisa
+
+nav:
+
+  - 'Test': 'test.txt'
+
+markdown_extensions:
+    - toc: permalink: True
+theme:
+  name : readthedocs
